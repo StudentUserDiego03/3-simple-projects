@@ -19,7 +19,7 @@ body{
     align-items: center;
     height: 200px;
     width: 200px;
-    background: slateblue;
+    background: rgb(86, 182, 214);
     border-radius: 100px;
     font-size: 1.5rem;
     color: white;
@@ -29,4 +29,6 @@ body{
 
 .hover{
     transform: scale(2);
+    text-transform: uppercase;
 }
+
